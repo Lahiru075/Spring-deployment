@@ -1,0 +1,4 @@
+package lk.ijse.gdse.springdeployements.repo;
+
+public interface CustomerRepo {
+}
